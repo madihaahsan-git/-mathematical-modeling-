@@ -1,0 +1,5 @@
+Research interests:
+- Battery Modeling
+- Cell Imbalance Dynamics
+- Machine Learning
+- Artificial Intelligence
